@@ -153,8 +153,7 @@ Rank_Products = RANKX(ALL(Products), [Total_Sales], , DESC, Dense)
 ---
 
 
-## 📸 Dashboard Preview  
-*(Add a screenshot here)*  
+## 📸 Dashboard Preview   
 ![Power BI Dashboard](dashboard_screenshot.png)  
 
 ---
